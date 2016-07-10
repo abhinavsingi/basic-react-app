@@ -1,0 +1,26 @@
+{
+  "name": "basic-react-app",
+  "version": "1.0.0",
+  "description": "This is a very basic React app with webpack for bundling, serving files and babel for transpiling",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavsingi/basic-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavsingi/basic-react-app/issues"
+  },
+  "homepage": "https://github.com/abhinavsingi/basic-react-app#readme"
+}
